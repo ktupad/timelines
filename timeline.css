@@ -1,0 +1,12 @@
+.page{  margin:0 auto;  width: 80%; }
+.dot {left:0;height: 20px;width:20px;background-color: #2e597b;
+border-radius: 50%;position: absolute;top: 50%;
+transform: translate(-50%, -50%);
+}
+
+.tl div {top: 50%;position: absolute;transform: translate(0, -50%);}
+
+.tl {
+position: relative;border-left: 2px solid #2e597b;
+padding:10px 10px 10px 25px;min-height:100px;
+}
